@@ -1,1 +1,1 @@
-# COVID-USA-2021-Dashboard
+Utilized COVID-19 data to determine how the amount of new positive cases in the United States changed over time in 2021. Created several visualizations in Tableau that included a dynamic map, line chart, table chart, and bar chart that integrated seamlessly together to create an interactive user-friendly dashboard. Pinpointed California as state with highest new positive COVID-19 case counts and underwent additional analysis on the state and county level.
